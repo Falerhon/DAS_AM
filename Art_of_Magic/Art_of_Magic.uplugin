@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Art_of_Magic",
+	"Description": "Extention to the DAS plugin. Allows the creation of spell components which the player can use to create customizable spells",
+	"Category": "Other",
+	"CreatedBy": "Alexandre Tremblay",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Art_of_Magic",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

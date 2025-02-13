@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\art_of_magic\\source\\art_of_magic\\private\\am_spell.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\intermediate\\build\\win64\\x64\\das_ameditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\art_of_magic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\art_of_magic\\definitions.art_of_magic.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\art_of_magic\\source\\art_of_magic\\public\\am_spell.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\art_of_magic\\intermediate\\build\\win64\\unrealeditor\\inc\\art_of_magic\\uht\\am_spell.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

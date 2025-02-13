@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Art_of_Magic.cpp.obj": [
+			"AMAbilityController.gen.cpp.obj",
+			"AMAugment.gen.cpp.obj",
+			"AMAugmentable.gen.cpp.obj",
+			"AMCastingMethod.gen.cpp.obj",
+			"AMComponentDescription.gen.cpp.obj",
+			"AMCrafterWidget.gen.cpp.obj",
+			"AMEffect.gen.cpp.obj",
+			"AMSpell.gen.cpp.obj",
+			"AMSpellAbility.gen.cpp.obj",
+			"AMSpellTable.gen.cpp.obj",
+			"Art_of_Magic.init.gen.cpp.obj",
+			"Art_of_Magic.cpp.obj",
+			"AMAbilityController.cpp.obj",
+			"AMCrafterWidget.cpp.obj",
+			"AMSpellTable.cpp.obj",
+			"AMAugment.cpp.obj",
+			"AMAugmentable.cpp.obj",
+			"AMCastingMethod.cpp.obj",
+			"AMComponentDescription.cpp.obj",
+			"AMEffect.cpp.obj",
+			"AMSpell.cpp.obj",
+			"AMSpellAbility.cpp.obj"
+		]
+	}
+}

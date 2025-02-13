@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\art_of_magic\\source\\art_of_magic\\private\\spellparts\\ameffectinterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\intermediate\\build\\win64\\x64\\das_ameditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\art_of_magic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\art_of_magic\\definitions.art_of_magic.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\art_of_magic\\source\\art_of_magic\\public\\spellparts\\ameffectinterface.h",
+            "d:\\perforce\\atrembl86_falerhonlaptop_2080\\20243_8inf960_das_am\\das_am\\plugins\\art_of_magic\\intermediate\\build\\win64\\unrealeditor\\inc\\art_of_magic\\uht\\ameffectinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

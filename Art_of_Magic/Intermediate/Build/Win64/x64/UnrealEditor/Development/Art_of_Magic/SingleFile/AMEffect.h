@@ -1,0 +1,1 @@
+#include "D:/Perforce/atrembl86_FalerhonLaptop_2080/20243_8INF960_DAS_AM/DAS_AM/Plugins/Art_of_Magic/Source/Art_of_Magic/Public/AMEffect.h"
